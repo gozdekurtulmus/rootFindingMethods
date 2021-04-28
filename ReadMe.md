@@ -1,4 +1,4 @@
-## Bisection Method:
+### Bisection Method:
 
 We want to design a ball throwing robot arm that will throw a ball with initial  velocity V0at  an  angle θ
 to  the  ground  plane. Assuming  that  the robot arm is at coordinates x= 0 the ball will hit the ground at 
@@ -16,7 +16,7 @@ then bisection method solves it by ***searching for θ in the interval [0◦,40�
 At the end also calculated V0 for the founded 0 value.
 Although the range is given in degrees, it performs the calculations in radians.
 
-## Both Fixed Point Iterations and Newton's Method works on the problem:
+### Both Fixed Point Iterations and Newton's Method works on the problem:
 
 Calculating the x-coordinate of the intersection of the parabola
 ***y=−x^2 + 4.0 *** with the line 
